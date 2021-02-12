@@ -2,7 +2,6 @@
 <html lang="pt-br">
    <head>
        <meta charset="utf-8"/>
-       <title>Comandos e atalhos básicos do Linux</title>
 	   <meta name="author" content="Fábio Pereira de Souza">
 	   <meta charset="utf-8">
    </head>
