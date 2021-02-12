@@ -57,7 +57,8 @@
 <li>exiba a explicação do comando ls</li>
 <li>renomeie o arquivo lista_nomes.txt para arquivo.txt</li>
 <li>Limpe o Terminal</li>
-<li>Saia do Terminal</l
+<li>Saia do Terminal</li>
+</ul>
 
 <h2>Solução</h2>
 <ul>
