@@ -31,8 +31,7 @@
 		<li>history: exibe uma lista de todos os comandos utilizados durantea execução do terminal</li>
 		<li>clear: limpa a tela do terminal</li>
 		<li>exit: sai do terminal</li>
-	   </ul>
-	   
+	   </ul>	   
 	   <h1>Atalhos do teclado no terminal linux</h1>
 	   <ul>
 		<li>Seta para cima: exibe os comandos utilizados durante a execução do terminal</li>
@@ -43,8 +42,7 @@
 		<li>Ctrl+W: Apaga uma palavra na linha atual</li>
 		<li>Ctrl+U: Apaga a linha inteira</li>
 		<li>Ctrl+R: Busca um comando recente</li>
-	   </ul>
-	   
+	   </ul>	   
 		<h1>Exercícios Práticos de Revisão</h1>
 		<ol>
 		<li>) Abra o Terminal </li>
@@ -62,8 +60,7 @@
 		<li>) Exclua o arquivo linux.txt </li>
 		<li>) Limpe o terminal</li>
 		<li>) Utilize o comando para sair do terminal</li>
-		</ol>
-		
+		</ol>		
 		<h2>Correção do exercício</h2>
 		<ol>
 		<li>) Abra o Terminal: <b>CTRL+ALT+T</b></li>
