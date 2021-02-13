@@ -88,7 +88,7 @@ echo -e "" -> Exibe com caracteres de formatação. Exemplo: echo -e "Fábio\n"
 	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>uname -r >> minhamáquina.txt</b></li>
 	<li>Exiba a arquitetura do Kernel <b>uname -m >> minhamáquina.txt</b></li>
 	<li>Reinicie a máquina <b>reboot</b></li>
-	<li>Abra o arquivo minhamáquina.txt <b>nano minhamáquina.txt</b>, se for somente exibir pode ser utilizado o cat minhamáquina.txt</li>
+	<li>Abra o arquivo minhamáquina.txt <b>nano minhamáquina.txt</b>, se for somente exibir pode ser utilizado o cat minhamáquina.txt. Uma outra forma de abrir o arquivo é entrando na pasta pessoal e abrindo num editor de texto desktop.</li>
 	<li>Desligue a máquina <b>shutdown -h now</b></li>
 </ul>
 
