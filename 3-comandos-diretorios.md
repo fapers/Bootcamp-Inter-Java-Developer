@@ -72,24 +72,24 @@ echo -e "" -> Exibe com caracteres de formatação. Exemplo: echo -e "Fábio\n"
 
 <ul>
 	<li>Criando seções e o arquivo: <b>echo -e "---INFORMAÇÕES DE HARDWARE---\n" > minhamáquina.txt</b></li>
-	<li>Exiba todos os hardwares que existem na máquina com paginação <br>lshw | more</br></li>
-	<li>Salve a saída do comando anterior no arquivo minhamáquina.txt <br>lshw >> minhamáquina.txt</br></li>
-	<li>Exiba informações sobre a memória física e virtual na sua máquina <br>free</br></li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>echo -e "\n---INFORMAÇÕES DE MEMÓRIA---\n" >> minhamáquina.txt</br> e logo em seguida <b>free >> minhamáquina.txt</b></li>
-	<li>Exiba todas as placas PCI conectadas <br>´lspci</br></li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>echo -e "\n---INFORMAÇÕES DE PLACAS PCI CONECTADAS---\n" >> minhamáquina.txt</br> e logo em seguida <b>lspci >> minhamáquina.txt</b></li>
-	<li>Exiba todos os dispositivos USB conectados <br>lsusb</br></li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>echo -e "\n---INFORMAÇÕES DE USB---\n" >> minhamáquina.txt</br> em seguida <b>lsusb >> minhamáquina.txt</b></li>
-	<li>Exiba as informações sobre processador <br>lscpu</br></li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>echo -e "\n---INFORMAÇÕES DE PROCESSADOR---\n" >> minhamáquina.txt</br> em seguida <b>lscpu >> minhamáquina.txt</b></li>
-	<li>Exiba o nome do Kernel <br></br>uname</li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>echo -e "\n---INFORMAÇÕES DO KERNEL---\n" >> minhamáquina.txt</br> em seguida <b>uname >> minhamáquina.txt</b></li>
-	<li>Exiba a versão do Kernel <br>uname -r</br></li>
-	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <br>uname -r >> minhamáquina.txt</br></li>
-	<li>Exiba a arquitetura do Kernel <br>uname -m >> minhamáquina.txt</br></li>
-	<li>Reinicie a máquina <br>reboot</br></li>
-	<li>Abra o arquivo minhamáquina.txt <br>nano minhamáquina.txt</br>, se for somente exibir pode ser utilizado o cat minhamáquina.txt</li>
-	<li>Desligue a máquina <br>shutdown -h now</br></li>
+	<li>Exiba todos os hardwares que existem na máquina com paginação <b>lshw | more</b></li>
+	<li>Salve a saída do comando anterior no arquivo minhamáquina.txt <b>lshw >> minhamáquina.txt</b></li>
+	<li>Exiba informações sobre a memória física e virtual na sua máquina <b>free</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>echo -e "\n---INFORMAÇÕES DE MEMÓRIA---\n" >> minhamáquina.txt</b> e logo em seguida <b>free >> minhamáquina.txt</b></li>
+	<li>Exiba todas as placas PCI conectadas <b>lspci</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>echo -e "\n---INFORMAÇÕES DE PLACAS PCI CONECTADAS---\n" >> minhamáquina.txt</b> e logo em seguida <b>lspci >> minhamáquina.txt</b></li>
+	<li>Exiba todos os dispositivos USB conectados <b>lsusb</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>echo -e "\n---INFORMAÇÕES DE USB---\n" >> minhamáquina.txt</b> em seguida <b>lsusb >> minhamáquina.txt</b></li>
+	<li>Exiba as informações sobre processador <b>lscpu</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>echo -e "\n---INFORMAÇÕES DE PROCESSADOR---\n" >> minhamáquina.txt</b> em seguida <b>lscpu >> minhamáquina.txt</b></li>
+	<li>Exiba o nome do Kernel <b>uname</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>echo -e "\n---INFORMAÇÕES DO KERNEL---\n" >> minhamáquina.txt</b> em seguida <b>uname >> minhamáquina.txt</b></li>
+	<li>Exiba a versão do Kernel <b>uname -r</b></li>
+	<li>Adicione a saída do comando anterior ao arquivo minhamáquina.txt <b>uname -r >> minhamáquina.txt</b></li>
+	<li>Exiba a arquitetura do Kernel <b>uname -m >> minhamáquina.txt</b></li>
+	<li>Reinicie a máquina <b>reboot</b></li>
+	<li>Abra o arquivo minhamáquina.txt <b>nano minhamáquina.txt</b>, se for somente exibir pode ser utilizado o cat minhamáquina.txt</li>
+	<li>Desligue a máquina <b>shutdown -h now</b></li>
 </ul>
 
 
