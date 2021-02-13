@@ -23,7 +23,7 @@ Assim como no windows que tem o diretório c: no linux temos o diretório /
 # Comandos
 
 cd / <br>
-cat /proc/cpuinfo -> Exibe as informações da cpu de um computador <br>
+cat /proc/cpuinfo -> Exibe as informações de processamento de um computador <br>
 cat /proc/meminfo -> Informações de memória do sistema <br>
 lspci -> Informações de todas as placas conectadas ao computador <br>
 lsusb -> Dispositivos USB <br>
