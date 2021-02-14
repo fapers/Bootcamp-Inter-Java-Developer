@@ -137,5 +137,5 @@ Adicione a saída do comando anterior ao arquivo aula redes.txt <i>echo -e "\n**
 
 16) Limpe o terminal <i>clear</i>
 
-17) Imprima o arquivo aularedes.txt com paginação no terminal <i>cat aularedes.txt | more</i>
+17) Imprima o arquivo aularedes.txt com paginação no terminal <i>cat aularedes.txt | more ou less</i>
 
