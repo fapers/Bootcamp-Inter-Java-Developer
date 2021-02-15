@@ -16,7 +16,7 @@ Uso:
 
 Compactar: <b>gzip nomedoarquivo</b>
 
-Descompactar: <br>gunzip nomedoarquivo</br>
+Descompactar: <br>gunzip nomedoarquivo.gz</br>
 
 Aumentar a taxa de compactação: <br>gzip -9 nomedoarquivo</br>
 
@@ -28,7 +28,7 @@ Compactar: <b>zip aularedes.zip aularedes.txt</b>
 
 Compactar vários arquivos: <b>zip arquivos.zip aularedes.txt vazio.txt</b>
 
-Descompactar: <b>unzip nomedoarquivo</b>
+Descompactar: <b>unzip nomedoarquivo.zip</b>
 
 3) Próximo compactar bzip2 é um compactador mais recente que o gzip e o zip.
 
@@ -36,7 +36,7 @@ Uso:
 
 Compactar: <b>bzip2 nomedoarquivo</b>
 
-Descompactar: <b>bzip2 -d nomedoarquivo</b>
+Descompactar: <b>bzip2 -d nomedoarquivo.bz2</b>
 
 4) Um compactar também muito bom é o rar - necessita ser instalado na primeira utilização.
 
